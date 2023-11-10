@@ -1,5 +1,5 @@
 
-var nome = "Isaac";
+var nome = "larissy";
 var xp = 8000;
 var nivel = ""
 
