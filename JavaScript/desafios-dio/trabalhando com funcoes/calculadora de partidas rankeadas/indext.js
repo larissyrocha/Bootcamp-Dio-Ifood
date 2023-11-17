@@ -24,7 +24,7 @@
 //  console.log(`O Herói de saldo ${saldoDeVitorias} está no nivel ${nível}`)
 
 
-let saldoDeVitorias = 11
+let saldoDeVitorias = 100
 let nível = ""
 let saldoDeDerrotas = 1
 
