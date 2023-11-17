@@ -1,29 +1,3 @@
-//  let saldoDeVitorias = 91
-//  let nível = "Imortal"
-
- 
-
-//  function calcularvitoriasederrotas(vitorias, derrotas) {
-//     return vitorias - derrotas
-//  } if (calcularvitoriasederrotas >= 10) {
-//     console.log("ferro")
-//  } else if (calcularvitoriasederrotas >= 11 && calcularvitoriasederrotas <= 20) {
-//     console.log("Bronze")
-//  } else if (calcularvitoriasederrotas >= 21 && calcularvitoriasederrotas <= 50) {
-//     console.log("Ouro")
-//  } else if (calcularvitoriasederrotas >= 51 && calcularvitoriasederrotas <= 80) {
-//     console.log("Diamante")
-//  } else if (calcularvitoriasederrotas >= 81 && calcularvitoriasederrotas <= 90) {
-//     console.log("Lendário")
-//  } else {
-//     console.log("Imortal")
-//  } 
-
-
-
-//  console.log(`O Herói de saldo ${saldoDeVitorias} está no nivel ${nível}`)
-
-
 let saldoDeVitorias = 100
 let nível = ""
 let saldoDeDerrotas = 1
