@@ -1,0 +1,20 @@
+// let userName = getFirstName ("Larissy Rocha Oliveira")
+
+// console.log("seja bem vindo " + userName)
+
+// function getFirstName(name){
+//     let firstName = name.split(" ")[0]
+//     return firstName
+// }
+
+
+let userName = getFirstName ("Larissy Rocha Oliveira ", " ")
+console.log("seja bem vindo " + userName)
+
+userName = getFirstName("felipe-rocha-almeida", "-")
+console.log("seja bem vindo " + userName)
+
+function getFirstName(name, splitChar){
+    let firstName = name.split(splitChar)[0]
+    return firstName
+}

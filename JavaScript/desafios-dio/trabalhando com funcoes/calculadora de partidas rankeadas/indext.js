@@ -1,6 +1,6 @@
-let saldoDeVitorias = 100
+let saldoDeVitorias = 81
 let nível = ""
-let saldoDeDerrotas = 1
+let saldoDeDerrotas = 0
 
 
 
